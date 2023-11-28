@@ -12,3 +12,5 @@
       .catch(error => {
         console.error('Error al obtener imágenes desde la API', error);
       });
+
+      
